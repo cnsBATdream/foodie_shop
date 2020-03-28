@@ -1,0 +1,17 @@
+com\imooc\mapper\ItemsCommentsMapper.class
+com\imooc\mapper\ItemsMapperCustom.class
+com\imooc\mapper\ItemsParamMapper.class
+com\imooc\mapper\OrderItemsMapper.class
+com\imooc\mapper\ItemsSpecMapper.class
+com\imooc\mapper\UsersMapper.class
+com\imooc\mapper\ItemsImgMapper.class
+com\imooc\mapper\OrdersMapper.class
+com\imooc\mapper\CarouselMapper.class
+com\imooc\mapper\UserAddressMapper.class
+com\imooc\mapper\ItemsCommentsMapperCustom.class
+com\imooc\mapper\ItemsMapper.class
+com\imooc\mapper\OrderStatusMapper.class
+com\imooc\my\mapper\MyMapper.class
+com\imooc\mapper\OrdersMapperCustom.class
+com\imooc\mapper\CategoryMapper.class
+com\imooc\mapper\CategoryMapperCustom.class
